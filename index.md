@@ -5,3 +5,5 @@
 [Dinosaur Game](https://SavageCleans.github.io/DinosaurGame.html)
 
 [Snake Game](https://SavageCleans.github.io/Snake.html)
+
+[Tetris](https://SavageCleans.github.io/Tetris.hTetris.html)
