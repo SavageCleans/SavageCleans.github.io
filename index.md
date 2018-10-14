@@ -6,4 +6,4 @@
 
 [Snake Game](https://SavageCleans.github.io/Snake.html)
 
-[Tetris](https://SavageCleans.github.io/Tetris.hTetris.html)
+[Tetris](https://SavageCleans.github.io/Tetris.html)
