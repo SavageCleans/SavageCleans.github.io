@@ -2,8 +2,8 @@
 
 **Games Links (Click Them)**
 
-[Dinosaur Game](https://SavageCleans.github.io/DinosaurGame.html)
+[Dinosaur Game](https://SavageCleans.github.io/Dino/DinosaurGame.html)
 
-[Snake Game](https://SavageCleans.github.io/Snake.html)
+[Snake Game](https://SavageCleans.github.io/Snake/Snake.html)
 
-[Tetris](https://SavageCleans.github.io/tetris.html)
+[Tetris](https://SavageCleans.github.io/Tetris/Tetris.html)
